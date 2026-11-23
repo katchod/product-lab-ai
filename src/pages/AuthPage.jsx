@@ -66,7 +66,7 @@ export function AuthPage({ mode }) {
         <Logo to="/login" />
         <div className="flex flex-1 items-center justify-center py-12 lg:justify-start lg:pl-12 xl:pl-[124px]">
           <div className="flex w-full max-w-[472px] flex-col gap-12">
-            <h1 className="font-[Arial,sans-serif] text-[128px] leading-[160px] font-medium tracking-[-2.56px] sm:text-[160px] sm:leading-[192px] sm:tracking-[-3.2px]">
+            <h1 className="text-[32px] leading-10 font-medium tracking-[-0.64px] sm:text-[40px] sm:leading-12 sm:tracking-[-0.8px]">
               {copy.title}
             </h1>
 
