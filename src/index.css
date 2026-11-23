@@ -56,7 +56,7 @@
 /* Figma tokens: page #ffffff, surface #efefef, surface-strong #e5e5e5,
    ink #000000, ink-muted #6e6e6e, icon #9e9e9e */
 :root {
-    --background: #ffffff;
+    --background: #d8b4fe;
     --foreground: #000000;
     --card: #efefef;
     --card-foreground: #000000;
