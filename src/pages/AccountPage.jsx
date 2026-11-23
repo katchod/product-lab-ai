@@ -79,7 +79,7 @@ export function AccountPage() {
   return (
     <main className="flex min-h-svh items-center justify-center px-4 py-12 sm:px-6">
       <form onSubmit={handleSubmit} className="flex w-full max-w-[472px] flex-col gap-12">
-        <h1 className="font-[Arial,sans-serif] text-[128px] leading-[160px] font-medium tracking-[-2.56px] sm:text-[160px] sm:leading-[192px] sm:tracking-[-3.2px]">
+        <h1 className="text-[32px] leading-10 font-medium tracking-[-0.64px] sm:text-[40px] sm:leading-12 sm:tracking-[-0.8px]">
           Account settings
         </h1>
 
